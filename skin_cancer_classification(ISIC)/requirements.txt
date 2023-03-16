@@ -1,0 +1,11 @@
+opencv-python
+numpy
+matplotlib
+tqdm==4.29.1
+pandas
+sklearn
+pillow
+tqdm
+torch
+torchvision
+tensorboardX
