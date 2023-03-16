@@ -1,7 +1,7 @@
 # Improving-Fairness-in-Image-Classification-via-Sketching
 The Pytorch Implementation of NeurIPS workshop paper "[Improving Fairness in Image Classification via Sketching](https://arxiv.org/abs/2211.00168)".
 
-[Ruichen Yao](https://scholar.google.com/citations?user=_ffV15wAAAAJ&hl=en&oi=ao), [Ziteng Cui](https://scholar.google.com/citations?user=niXIRXgAAAAJ&hl=en), [Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/), [Lin Gu](https://sites.google.com/view/linguedu/home)
+[Ruichen Yao](https://scholar.google.com/citations?user=_ffV15wAAAAJ&hl=en&oi=ao), [Ziteng Cui](https://cuiziteng.github.io/), [Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/), [Lin Gu](https://sites.google.com/view/linguedu/home)
 
 [[Paper](https://arxiv.org/pdf/2211.00168.pd)] [[Video](https://neurips.cc/virtual/2022/workshop/49959#wse-detail-61542)]
 
